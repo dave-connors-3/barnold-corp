@@ -47,7 +47,7 @@ final as (
         customers.is_preferred_customer,
         customers.gender,
         stores.store_name,
-        stores.city,
+        stores.alksfj_city,
         stores.state
 
     from unioned

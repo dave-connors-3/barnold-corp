@@ -20,7 +20,6 @@ renamed as (
         d_moy as moy,
         d_dom as dom,
         d_qoy as qoy,
-        d_fy_year as fy_year,
         d_fy_quarter_seq as fy_quarter_seq,
         d_fy_week_seq as fy_week_seq,
         d_day_name as day_name,
@@ -43,3 +42,4 @@ renamed as (
 )
 
 select * from renamed
+
