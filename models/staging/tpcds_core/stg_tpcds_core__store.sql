@@ -31,7 +31,7 @@ renamed as (
         s_street_name as street_name,
         s_street_type as street_type,
         s_suite_number as suite_number,
-        s_city as city,
+        s_city as alksfj_city,
         s_county as county,
         s_state as state,
         s_zip as zip,

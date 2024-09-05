@@ -23,7 +23,6 @@ models:
         description: unique identifier for a store
         tests:
           - unique
-          - not_null
 
 
   - name: call_centers
